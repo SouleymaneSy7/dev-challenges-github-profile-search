@@ -8,8 +8,8 @@ This is a solution to the [Github Profile Search Challenge on devchallenges.io](
 
 ## Links
 
-- Demo Links: [Demo Links here](https://demo-links-url.com)
-- Solution Links: [Solution Links here](https://solution-links-url.com)
+- Demo Links: [Demo Links here](https://dev-challenges-github-profile-search.vercel.app/)
+- Solution Links: [Solution Links here](https://devchallenges.io/solution/2305)
 
 ## Built With
 
